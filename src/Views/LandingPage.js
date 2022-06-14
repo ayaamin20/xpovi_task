@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Button from "../Components/Button";
 import Form from "../Components/Form";
 import logo from "../Modalimg.jpg";
-
 import { useNavigate } from "react-router-dom";
 
 function LandingPage() {

@@ -11,7 +11,6 @@ function App() {
         <header className="App-header">
           <Routes>
             <Route path="/" element={<LandingPage />} />
-
             <Route exact path="/questionnaire" element={<Questionnaire />} />
             <Route exact path="/allquestions" element={<AllQuestionss />} />
           </Routes>
